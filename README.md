@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Volodymyr Drobot</h1>
 <h3 align="center">A passionate AI enthusiast from Ukraine</h3>
 
-- 🌱 I’m currently learning **how to implement Ml/DL on real life projects that matter**
+- 🌱 I’m currently learning **how to implement ML/DL on real-life projects that matter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vovij](https://github.com/vovij)
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://beige-sisile-74.tiiny.site/](https://beige-sisile-74.tiiny.site/)
 
-- ⚡ Fun fact **Educating myself ML through projects**
+- ⚡ Fun fact **Educating myself ML through creating projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
