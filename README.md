@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://beige-sisile-74.tiiny.site/](https://beige-sisile-74.tiiny.site/)
 
-- ⚡ Fun fact **Educating myself ML through creating projects**
+- ⚡ **Educating myself ML through creating projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
