@@ -3,7 +3,7 @@
 MSc Artificial Intelligence student at Imperial College London with a passion for building robust machine learning systems to solve complex problems. I have a background in Physics and Data Science and have learned to code mostly in my free time outside uni studies.
 
 - 🔭 **Currently:** Seeking AI Engineer & Quant internships for Summer 2026.
-- 💬 **Ask me about:** Deep Learning, NLP, Computer Vision, and Quantitative Finance.
+- 💬 **You can ask me about:** Deep Learning, NLP, Computer Vision, and Quantitative Finance.
 - 📫 **Contact:** vovijdrobot@gmail.com
 - 🔗 **LinkedIn:** [linkedin.com/in/volodymyr-drobot](https://www.linkedin.com/in/volodymyr-drobot-21660b259)
 
