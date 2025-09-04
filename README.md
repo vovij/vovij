@@ -1,21 +1,30 @@
-<h1 align="center">Hi 👋, I'm Volodymyr Drobot</h1>
-<h3 align="center">A passionate AI enthusiast from Ukraine</h3>
+# Hi 👋, I'm Volodymyr Drobot
 
-- 🌱 I’m currently learning how to implement ML/DL on real-life projects
+MSc Artificial Intelligence student at Imperial College London with a passion for building robust machine learning systems to solve complex problems. I have a background in Physics and Data Science and have learned to code mostly in my free time outside uni studies.
 
-- 👨‍💻 All of my projects are available at [https://github.com/vovij](https://github.com/vovij)
+- 🔭 **Currently:** Seeking AI Engineer & Quant internships for Summer 2026.
+- 💬 **Ask me about:** Deep Learning, NLP, Computer Vision, and Quantitative Finance.
+- 📫 **Contact:** vovijdrobot@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/volodymyr-drobot](https://www.linkedin.com/in/volodymyr-drobot-21660b259)
 
-- 📫 How to reach me **vovijdrobot@gmail.com**
+---
 
-- 📄 Know about my experiences [https://beige-sisile-74.tiiny.site/](https://beige-sisile-74.tiiny.site/)
+### 🛠️ Tech Stack
+[//]: # (Use shields.io for these badges or just use the icons you have)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- ⚡ **Educating myself ML through creating projects**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_vovij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vovij" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vovijdrobot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vovijdrobot" height="30" width="40" /></a>
-</p>
+### 🌟 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+| Project Name | Description | Technologies Used |
+|---|---|---|
+| **[Neural Networks for Higgs Boson Classification](https://github.com/vovij/Higgs-Boson-Classification)** | Trained CNN & Transformer models on ATLAS data to achieve 96% signal efficiency, a 2-3x improvement over traditional methods. | `Python`, `PyTorch`, `Transformers`, `Scikit-learn` |
+| **[Polymarket Speech Trader](link-to-repo)** | Designed a live speech transcription system with sub-second latency to programmatically execute trades on prediction markets. | `Python`, `FFmpeg`, `Vosk`, `WebSockets`, `Polymarket API` |
+| **[Portfolio-Optimisation](https://github.com/vovij/Portfolio-Optimisation)** | Developed quantitative models for portfolio optimization and stock analysis. | `Python`, `Scikit-learn`, `Pandas`, `Matplotlib` |
