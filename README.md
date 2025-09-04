@@ -1,4 +1,4 @@
-# Hi 👋, I'm Volodymyr Drobot
+# Hi 👋,  I'm Volodymyr Drobot
 
 MSc Artificial Intelligence student at Imperial College London with a passion for building robust machine learning systems to solve complex problems. I have a background in Physics and Data Science and have learned to code mostly in my free time outside uni studies.
 
