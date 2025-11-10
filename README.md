@@ -24,5 +24,5 @@ MSc Artificial Intelligence student at Imperial College London with a passion fo
 | Project Name | Description | Technologies Used |
 |---|---|---|
 | **[Neural Networks for Higgs Boson Classification](https://github.com/vovij/Higgs-Boson-Classification)** | Trained CNN & Transformer models on ATLAS data to achieve 96% signal efficiency, a 2-3x improvement over traditional methods. | `Python`, `PyTorch`, `Transformers`, `Scikit-learn` |
-| **[Solar Wind & Magnetic Storm Prediction]((https://github.com/vovij/Solar-wind-analysis-with-Classifier-models-and-PCA))** | Performed extensive time-series analysis on solar wind data and developed multiple classification models (Naive Bayes, LDA) to predict magnetic storms with up to 88% accuracy. | `Python`, `Statsmodels`, `Scikit-learn`, `Pandas` |
+| **[Solar Wind & Magnetic Storm Prediction](https://github.com/vovij/Solar-wind-analysis-with-Classifier-models-and-PCA)** | Performed extensive time-series analysis on solar wind data and developed multiple classification models (Naive Bayes, LDA) to predict magnetic storms with up to 88% accuracy. | `Python`, `Statsmodels`, `Scikit-learn`, `Pandas` |
 | **[Portfolio-Optimisation](https://github.com/vovij/Portfolio-Optimisation)** | Developed quantitative models for portfolio optimization and stock analysis. | `Python`, `Scikit-learn`, `Pandas`, `Matplotlib` |
